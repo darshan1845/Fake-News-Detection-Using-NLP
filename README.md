@@ -19,9 +19,19 @@ It classifies news articles as **Fake** or **Real** using TF-IDF vectorization a
 ---
 
 ## 📂 Dataset
-Dataset used: **Fake and Real News Dataset**
+
+Dataset used: **Fake and Real News Dataset** from Kaggle.
+
+Due to GitHub file size limits, the dataset is not included in this repository.
+
+Please download it manually from Kaggle:
+
+Search on Kaggle: "Fake and Real News Dataset" by Clément Bisaillon
+
+After downloading, place the following files in the project folder:
 - Fake.csv
 - True.csv
+
 
 Each news article is labeled as:
 - 0 → Fake News
